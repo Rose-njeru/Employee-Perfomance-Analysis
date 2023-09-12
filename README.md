@@ -27,6 +27,7 @@ To Analyze  the employees'  sales performance  to identify top performers, sales
   
   ## Assumptions
   While conducting the  employee performance analysis, several assumptions were considered:
-  + The period for the case study is meaningful and appropriate.Using different periods may yield different results
+  + The period for the case study is meaningful and appropriate. Using different periods may yield different results
   + No employee left the organization while the case study was being conducted
   + The sample size is sufficient to draw meaningful conclusions
+
